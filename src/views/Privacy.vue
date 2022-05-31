@@ -11,7 +11,7 @@
         <div class="content-page text-right my-5">
           <strong>Privacy Policy</strong>
           <p>
-            alexapps built the etbokly app as
+            alexapps built the beaat app as
             a Free app. This SERVICE is provided by
             alexapps at no cost and is intended for use as
             is.
