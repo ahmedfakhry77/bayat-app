@@ -7,14 +7,14 @@
 
         <swiper-slide
           :key="index"
-          v-for="(image, index) in [1, 2, 3, 4, 5]"
+          v-for="(image, index) in [1, 2, 3, 4, 5 , 7 , 8 , 9]"
           class="text-center d-flex align-center flex-wrap justify-center py-10"
         >
           <div class="screen text-center">
             <img
               class="mobile-view"
               style="display: inline"
-              :src="require(`@/assets/images/screens/${image}.png`)"
+              :src="require(`@/assets/images/screens/${image}.jpg`)"
               alt="screen"
             />
           </div>

@@ -6,7 +6,7 @@
         <div
           :key="index"
           v-for="(feature, index) in features"
-          class="col-md-4 col-12 feature text-center"
+          class="col-md-3 col-12 feature text-center"
         >
           <div class="mb-4" style="height: 10em">
             <img :src="feature.image" alt="img" class="img-fluid" />
@@ -39,6 +39,10 @@ export default {
           image: require('@/assets/images/features/marketing-agency.svg'),
           text: ' الشركات والمؤسسات الراغبه في الإعلان في تطبيق بيعات تحصل على عروض إعلانات مميزه جداً'
         },
+        {
+          image: require('@/assets/images/features/trending-up-outline-svgrepo-com.svg'),
+          text :'اكتشف المزيد من الاعلانات الرائجة يوميَا'
+        }
       ]
     }
   }
