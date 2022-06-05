@@ -84,7 +84,7 @@
 
     <!-- FOOTER -->
     <footer class="footer">
-      <p class="text-center m-0 py-2 text-white">Powered By | AlexApps</p>
+      <p class="text-center m-0 py-2 text-white">الادارة كويتية 100%</p>
     </footer>
   </div>
 </template>
