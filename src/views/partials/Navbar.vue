@@ -3,7 +3,7 @@
     <div class="container">
       <!-- LOGO -->
       <a class="navbar-brand" href="#">
-        <img class="logo" src="@/assets/images/logo.png" width="70px" style="border-radius:50%" />
+        <img class="logo" src="@/assets/images/logo.jpg" width="70px" style="border-radius:50%" />
       </a>
 
       <!-- MOBILE NAV BUTTON -->

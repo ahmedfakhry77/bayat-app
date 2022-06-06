@@ -6,7 +6,7 @@
           <div class="pr-md-5 text-center">
             <img
               class="about-image"
-              src="@/assets/images/logo2.png"
+              src="@/assets/images/logo2.jpg"
               alt="About"
             />
           </div>
