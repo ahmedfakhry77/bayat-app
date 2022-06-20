@@ -15,7 +15,7 @@
             <div class="text-center">
               <div class="d-inline-block">
                 <a
-                  href="https://apps.apple.com/us/app/efrag/"
+                  href="https://apps.apple.com/us/app/beaat-%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA/id1602350262"
                   target="_blank"
                 >
                   <img
@@ -26,7 +26,7 @@
                 </a>
               </div>
               <div class="d-inline-block mx-2">
-                <a href="https://play.google.com/store/apps/details?id=com.alexApps.ifrag" target="_blank">
+                <a href="https://play.google.com/store/apps/details?id=com.alexapps.beaat" target="_blank">
                   <img
                     class="download-app-btn"
                     src="@/assets/images/google-play.png"
